@@ -1,0 +1,65 @@
+/* Mobile Version */
+nav {
+  margin-top: -5px;
+}
+
+.topnav li {
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.brand-logo {
+  font-family: teko, sans-serif, Arial, Helvetica;
+  font-size: 30px !important;
+  margin-top: 5px;
+}
+
+.sidenav-trigger i {
+  margin-top: 3px;
+}
+
+.team-card {
+  padding-top: 30px;
+}
+
+.team-card h4 {
+  font-size: 20px;
+}
+
+.team-card:hover {
+  box-shadow: 0 0 15px grey;
+}
+
+.team-image {
+  max-width: 400px;
+  max-height: 400px;
+  object-position: center;
+}
+
+footer {
+  margin-top: 20px;
+  padding-bottom: 20px;
+  font-size: 14px;
+}
+
+/* Dekstop Version */
+@media (min-width: 992px) {
+  .brand-logo {
+    font-size: 35px !important;
+  }
+
+  .topnav li {
+    text-transform: uppercase;
+  }
+
+  .team-card h4 {
+    font-size: 30px;
+  }
+
+  footer {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+  }
+
+}
