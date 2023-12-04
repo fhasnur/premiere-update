@@ -1,5 +1,5 @@
 const API_KEY = "d5e2983cab2a4dbbbf5a09e3540b883c";
-const BASE_URL = "https://api.football-data.org/v2/";
+const BASE_URL = "https://api.football-data.org/v4/";
 
 const LEAGUE_ID = 2021;
 
