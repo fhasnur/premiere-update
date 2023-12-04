@@ -1,5 +1,5 @@
 # Premiere Update
-"Premier League Simple Web App" is a progressive web app (PWA) built using JavaScript that provides users with an easy and convenient way to access information about the English Premier League. The app uses data retrieved through the API available at https://api.football-data.org/v2/ to provide accurate and up-to-date information about the league.
+"Premier League Simple Web App" is a progressive web app (PWA) built using JavaScript that provides users with an easy and convenient way to access information about the English Premier League. The app uses data retrieved through the API available at https://api.football-data.org/v4/ to provide accurate and up-to-date information about the league.
 
 The application allows users to view the current standings, fixtures, and also provides detailed information about each team, including their roster and upcoming fixtures. Users can add teams to their favorites list for quick access, and receive push notifications for important updates.
 
